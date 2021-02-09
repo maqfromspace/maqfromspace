@@ -14,7 +14,11 @@ public class CV {
     
     String education = "Bachelor in CS";
     
+    String currentCompany = "RTK IT";
+    
     String currentPosition = "Back-end dev";
+    
+    String currentProject = "Single Sing-On project";
     
     PROGRAMMING_LANGUAGE language = PROGRAMMING_LANGUAGE.JAVA_8;
     
