@@ -1,6 +1,6 @@
 ### Hello dear visiter! 👋
 
-### A little more about me... 
+### 👨🏼‍💻A little more about me... 
 ```java
 import java.util.List;
 
@@ -40,7 +40,7 @@ public class CV {
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 📨 &nbsp;Connect with Me
 
 <p align="left">
 <a href="mailto:maqfromspace@gmail.com"><img src="https://img.shields.io/badge/maqfromspace@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
