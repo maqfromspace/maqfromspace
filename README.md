@@ -1,5 +1,9 @@
 ### Hello dear visiter!
 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about Systems Design and Cloud Architecture.\
+🎓 &nbsp;I am a Bachelor of Computer Science at Kuban State University. 
+
 ### 👨🏼‍💻A little more about me... 
 ```java
 import java.util.List;
