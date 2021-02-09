@@ -1,4 +1,4 @@
-### Hello dear visiter! 👋
+### Hello dear visiter!
 
 ### 👨🏼‍💻A little more about me... 
 ```java
