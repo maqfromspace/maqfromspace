@@ -31,7 +31,17 @@ public class CV {
 
 }
 ```
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Some Statistic
-<p align=left> <img src=https://komarev.com/ghpvc/?username=maqfromspace alt=maqfromspace /> </p>
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/maqfromspace">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maqfromspace&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maqfromspace&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=maqfromspace&show_icons=true&include_all_commits=true)](https://github.com/maqfromspace/github-readme-stats)
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="mailto:maqfromspace@gmail.com"><img src="https://img.shields.io/badge/maqfromspace@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
