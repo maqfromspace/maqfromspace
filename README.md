@@ -6,6 +6,9 @@
 
 ### 👨🏼‍💻A little more about me... 
 ```java
+package github;
+
+import java.util.Arrays;
 import java.util.List;
 
 public class CV {
