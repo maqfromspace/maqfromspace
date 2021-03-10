@@ -1,4 +1,4 @@
-### Hello dear visiter!
+### Hello!
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Systems Design and Cloud Architecture.\
